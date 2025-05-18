@@ -1,0 +1,5 @@
+playwright
+flet
+sqlalchemy
+requests
+beautifulsoup4
