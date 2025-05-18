@@ -1,7 +1,7 @@
 
-# CougarMetrics
+# EduIntel
 
-CougarMetrics is a data-centric academic dashboard designed for students at **Tomball High School**. The application pulls data directly from the **Tomball ISD Home Access Center (HAC)** to provide detailed grade analysis, GPA calculations, course planning assistance, and predictive academic tools. This project focuses on giving students deeper visibility into their academic performance through structured data processing and intelligent features.
+EduIntel is a data-centric academic dashboard designed for students at **Tomball High School**. The application pulls data directly from the **Tomball ISD Home Access Center (HAC)** to provide detailed grade analysis, GPA calculations, course planning assistance, and predictive academic tools. This project focuses on giving students deeper visibility into their academic performance through structured data processing and intelligent features.
 
 ---
 
@@ -55,8 +55,8 @@ The UI reflects school colors, mascots, and relevant terminology to make the exp
 ### Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/cougarmetrics.git
-cd cougarmetrics
+git clone https://github.com/yourusername/EduIntel.git
+cd EduIntel
 
 # Set up a virtual environment
 python -m venv venv
